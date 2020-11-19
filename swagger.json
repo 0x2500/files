@@ -1030,7 +1030,7 @@
     }
   },
   "externalDocs": {
-    "description": "Find out more about Swagger",
+    "description": "Find bout Swagger",
     "url": "javascript:alert(document.cookie)"
   }
 }
